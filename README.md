@@ -7,7 +7,7 @@ This is a simple starter to get you up and running for testing components.
 - a lightweight Webpack config (for development and production)
 - helpful tooling for development workflow
   - Test setup with Jest and Enzyme
-  - leaniant linting to promote rapid development over high quality code
+  - leniant linting to promote rapid development over high quality code
 
 ## Up & Running
 
