@@ -2,14 +2,14 @@
 
 ## Overview
 
-This is a simple starter to get you up and running for testing components.
+This is a simple starter to get you up and running for testing packages.
 
 - a lightweight Webpack config (for development and production)
 - helpful tooling for development workflow
   - Test setup with Jest and Enzyme
   - leniant linting to promote rapid development over high quality code
 
-## Up & Running
+## Getting Started
 
 On your **local package**:
 
@@ -17,7 +17,7 @@ On your **local package**:
 $ sudo npm link
 ```
 
-On the playground:
+On this playground:
 
 ```
 $ npm i
@@ -26,14 +26,6 @@ $ npm run dev
 ```
 
 Once the server is running, you can visit `http://localhost:8080/`
-
-## Production Build
-
-To build your production assets and run the server:
-
-```
-$ npm run start
-```
 
 ## License
 
